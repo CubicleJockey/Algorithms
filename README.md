@@ -1,10 +1,5 @@
 # Algorithms
 <hr />
-
-Extensions Include:
-* Custom Messages extensions for [CodeGuard](https://www.nuget.org/packages/Seterlund.CodeGuard/)
-
-<hr />
 <pre>
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
 Version 1, Janurary 2017 
