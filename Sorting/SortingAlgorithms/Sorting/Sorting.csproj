@@ -40,7 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NumberSorting.cs" />
+    <Compile Include="BaseNumberSorting.cs" />
+    <Compile Include="IntSorting.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
